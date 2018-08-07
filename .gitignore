@@ -37,3 +37,13 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# visual studio
+kanichina_api/packages
+kanichina_api/api/obj
+kanichina_api/api/Debug
+kanichina_api/api/bin
+
+
+
+
